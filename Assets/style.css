@@ -83,7 +83,7 @@
   
   .hero-banner {
     background: #b392ac;
-    background-image: url(Images/Explorer.jpeg);
+    background-image: url(Assets/images/Explorer.jpeg);
     background-size:cover;
     background-position: center;
     background-blend-mode: soft-light;
@@ -202,14 +202,14 @@
   
 /* images in work containers */
 .Kaskade {
-    background-image: url("Images/Kaskade.jpeg");
+    background-image: url("Assets/images/Kaskade.jpeg");
     background-size: cover;
     background-position: center;
   }
 
   
   .DLE-webpage {
-    background-image: url("Images/IMG_1929.JPG");
+    background-image: url("Assets/images/IMG_1929.JPG");
     background-size: cover;
     background-position: center;
   }
