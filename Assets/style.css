@@ -83,7 +83,7 @@
   
   .hero-banner {
     background: #b392ac;
-    background-image: url(Assets/images/Explorer.jpeg);
+    background-image: url("Assets/images/Explorer.jpeg");
     background-size:cover;
     background-position: center;
     background-blend-mode: soft-light;
